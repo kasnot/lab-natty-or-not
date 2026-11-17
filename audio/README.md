@@ -54,6 +54,7 @@ Maior dificuldade encontrada:
 Projeto desenvolvido para o desafio #LabDIONattyOrNot da Digital Innovation One DIO (https://www.dio.me/).
 
 Desenvolvido por Luciano da Silva 
+
 Conecte-se comigo no LinkedIn www.linkedin.com/in/luciano-silva-b28236152
 
 
