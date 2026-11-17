@@ -35,5 +35,5 @@ O roteiro conseguiu transmitir a empatia necessária para um tema de RH?
 R: Sim, foi muito convincente e transmitiu excelentemente o recado.
 
 Qual foi a maior dificuldade (entonação, termos técnicos, siglas de CLT/jornada)? 
-R:Foi no uso da aplicação, mas foi muito desafiador poder fazer esse projeto e gratificante.
+R: Foi no uso da aplicação, mas foi muito desafiador poder fazer esse projeto e gratificante.
 
