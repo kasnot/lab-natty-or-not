@@ -10,14 +10,18 @@ Ideia: Comunicar uma mudança organizacional sensível com clareza, empatia e se
 
 ## 🛠️ Tecnologias Utilizadas
 Liste honestamente as ferramentas que usou:
+
 IA de Texto: Gemini (geração do roteiro).
+
 IA de Voz (TTS): Clipchamp - Português Brasil - voz da Francisca (Alegre e Nítida).
+
 Edição: Clipchamp
 
 ## 🚀 Processo de Criação
 Descreva em poucas linhas o caminho que você percorreu:
 
 1. Pedi para que criasse um roteiro curto de áudio corporativo que informa-se os colaboradores sobre a transição da escala de trabalho 6x1 para 5x2.
+
 2. Escolhi a voz humana realista para soar mais natural onde na conversão do texto se
 gerou a locução com voz alegre e nítida sem a necessidade de ajuste de entonação e velocidade.
 
